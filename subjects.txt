@@ -1,0 +1,8 @@
+This is the class A
+
+There are 40 childeren in this class
+
+They are doing 3 diferent subjects.
+  1.Maths
+  2.Physics
+  3.Chemistry
